@@ -1,0 +1,25 @@
+* {
+  background-color: #c0dbea;
+}
+
+.navbar {
+    display: flex;
+        .img1 {
+        width: 60px;
+        }
+
+        .categories {
+        font-size: xx-large;
+        font-family: "Karumbi Regular";
+        list-style-type: none;
+        color: white;
+        }
+}
+
+.titre {
+  font-family: "Walter Turncoat", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #e8a0bf;
+  text-shadow: 2px 1px 0px rgba(255, 255, 255, 0.4);
+}/*# sourceMappingURL=melot.css.map */

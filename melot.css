@@ -3,17 +3,19 @@
 }
 
 .navbar {
-    display: flex;
-        .img1 {
-        width: 60px;
-        }
+  display: flex;
+  flex-direction: row;
+    .img1 {
+      width: 60px;
+    }
 
-        .categories {
-        font-size: xx-large;
-        font-family: "Karumbi Regular";
-        list-style-type: none;
-        color: white;
-        }
+    .categories {
+      font-family: "Walter Turncoat", cursive;
+      font-weight: 100;
+      font-style: normal;
+      list-style-type: none;
+      color: white;
+    }
 }
 
 .titre {
@@ -22,4 +24,16 @@
   font-style: normal;
   color: #e8a0bf;
   text-shadow: 2px 1px 0px rgba(255, 255, 255, 0.4);
-}/*# sourceMappingURL=melot.css.map */
+}
+
+
+
+
+
+
+
+
+
+
+
+/*# sourceMappingURL=melot.css.map */
